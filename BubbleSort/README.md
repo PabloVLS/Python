@@ -1,7 +1,7 @@
 # 📌 Estrutura de Dados II - Bubble Sort
 
-## 📌 Autor
-**Pablo Vinicius Lima Souza**
+## 📌 **Pablo Vinicius Lima Souza**
+
 
 ---
 
