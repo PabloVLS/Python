@@ -39,7 +39,8 @@
 ![Exemplo 2](https://github.com/user-attachments/assets/277543cf-23ac-4ad1-b4fb-e2e9c97aab63)
 
 **Exemplo 3:**
-![Exemplo 3](https://github.com/user-attachments/assets/cd52eddd-fa1e-4fe9-8bee-4ff95cb58953)
+![Exemplo 3](https://github.com/user-attachments/assets/cc26f231-1460-427d-9c02-1eaee53b4fac)
+
 
 ---
 
