@@ -20,25 +20,25 @@
 ## ⏳ Análise de Tempo de Execução
 
 ### 📊 Bubble Sort Padrão
-**Exemplo 1:**
+Exemplo 1:
 ![Exemplo 1](https://github.com/user-attachments/assets/2cd0642f-91b0-4b6e-a09f-b7d2b7becc29)
 
-**Exemplo 2:**
+Exemplo 2:
 ![Exemplo 2](https://github.com/user-attachments/assets/b6eb728a-8656-40f9-8032-36847c476111)
 
-**Exemplo 3:**
+Exemplo 3:
 ![Exemplo 3](https://github.com/user-attachments/assets/40aceccf-905f-41f2-b123-ac34bc526105)
 
 ---
 
 ### ⚡ Bubble Sort Otimizado
-**Exemplo 1:**
+Exemplo 1:
 ![Exemplo 1](https://github.com/user-attachments/assets/71f40721-3b5a-4f4f-8963-27e61f679b92)
 
-**Exemplo 2:**
+Exemplo 2:
 ![Exemplo 2](https://github.com/user-attachments/assets/277543cf-23ac-4ad1-b4fb-e2e9c97aab63)
 
-**Exemplo 3:**
+Exemplo 3:
 ![Exemplo 3](https://github.com/user-attachments/assets/cc26f231-1460-427d-9c02-1eaee53b4fac)
 
 
