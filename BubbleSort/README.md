@@ -13,7 +13,7 @@
 
 ## ⚡ Bubble Sort Otimizado
 
-![Bubble Sort Otimizado](https://github.com/user-attachments/assets/e5571b87-263e-4587-ae00-17361e6137c6)
+![Bubble Sort Otimizado](https://github.com/user-attachments/assets/ec5f244c-d43d-4068-9186-72b67bf14cca)
 
 ---
 
