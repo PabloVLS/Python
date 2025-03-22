@@ -9,6 +9,8 @@ def selectionSort2(array):
                 posicaoMenor = j
         array[i],array[posicaoMenor] = array[posicaoMenor], array[i]
 
+    print("Ordenação:",array)
+
 
 numeros = [6,2,4,8,5,9,1]
 selectionSort2(numeros)
