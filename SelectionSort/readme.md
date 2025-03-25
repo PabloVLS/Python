@@ -1,6 +1,6 @@
 # Comparação entre Selection Sort Padrão e Otimizado
 
-#Pablo Vinicius Lima Souza
+# Pablo Vinicius Lima Souza
 
 ## Introdução
 Este repositório contém duas implementações do algoritmo de ordenação **Selection Sort**: uma versão padrão e uma versão otimizada. O objetivo é demonstrar as diferenças entre as abordagens e as melhorias aplicadas.
