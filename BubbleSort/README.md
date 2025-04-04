@@ -37,15 +37,18 @@ Exemplo 3:
 ### ⚡ Bubble Sort Otimizado
 Exemplo 1:
 
-![Exemplo 1](https://github.com/user-attachments/assets/71f40721-3b5a-4f4f-8963-27e61f679b92)
+![Exemplo 1](![image](https://github.com/user-attachments/assets/2bc937d2-3fb4-4ef1-b493-60576c033c47)
+
 
 Exemplo 2:
 
-![Exemplo 2](https://github.com/user-attachments/assets/277543cf-23ac-4ad1-b4fb-e2e9c97aab63)
+![Exemplo 2]![image](https://github.com/user-attachments/assets/4c929f12-eeb4-4e29-8d12-c7a2ee5a73c1)
+
 
 Exemplo 3:
 
-![Exemplo 3](https://github.com/user-attachments/assets/cc26f231-1460-427d-9c02-1eaee53b4fac)
+![Exemplo 3]![image](https://github.com/user-attachments/assets/5533e6a5-4619-4b3a-8d5f-d2a7f09d1687)
+
 
 
 ---
