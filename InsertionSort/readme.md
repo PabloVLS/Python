@@ -28,7 +28,7 @@ Exemplo 1:
 Exemplo 2:
 
 ![Exemplo 2](![image](https://github.com/user-attachments/assets/db999ee0-38e8-4007-ae41-bba9da017bc9)
-)
+
 
 Exemplo 3:
 
@@ -57,9 +57,9 @@ Exemplo 3:
 
 | Exemplo | Insertion Sort Padrão | Insertion Sort Otimizado |
 |---------|--------------------|----------------------|
-| 1º      | 0.001424s          | 0.001549s           |
-| 2º      | 0.002590s          | 0.002484s           |
-| 3º      | 0.004692s          | 0.001994s           |
+| 1º      | 0.000088s          | 0.001549s           |
+| 2º      | 0.000111s          | 0.002484s           |
+| 3º      | 0.001549s          | 0.001994s           |
 
 ---
 
