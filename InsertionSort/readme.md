@@ -40,15 +40,18 @@ Exemplo 3:
 ### ⚡ Insertion Sort Otimizado
 Exemplo 1:
 
-![Exemplo 1](https://github.com/user-attachments/assets/71f40721-3b5a-4f4f-8963-27e61f679b92)
+![Exemplo 1]![image](https://github.com/user-attachments/assets/aa09c223-2234-41a8-8fc1-e750c33e28d7)
+
 
 Exemplo 2:
 
-![Exemplo 2](https://github.com/user-attachments/assets/277543cf-23ac-4ad1-b4fb-e2e9c97aab63)
+![Exemplo 2]![image](https://github.com/user-attachments/assets/33550af3-0cf0-402e-9f01-ff793a35042a)
+
 
 Exemplo 3:
 
-![Exemplo 3](https://github.com/user-attachments/assets/cc26f231-1460-427d-9c02-1eaee53b4fac)
+![Exemplo 3]![image](https://github.com/user-attachments/assets/a8907456-b594-4b38-b975-e6349be4e78b)
+
 
 
 ---
@@ -58,8 +61,8 @@ Exemplo 3:
 | Exemplo | Insertion Sort Padrão | Insertion Sort Otimizado |
 |---------|--------------------|----------------------|
 | 1º      | 0.000088s          | 0.001549s           |
-| 2º      | 0.000111s          | 0.002484s           |
-| 3º      | 0.001549s          | 0.001994s           |
+| 2º      | 0.000088s          | 0.002484s           |
+| 3º      | 0.000111s          | 0.001994s           |
 
 ---
 
