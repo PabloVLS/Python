@@ -27,7 +27,16 @@ def partition(array, esquerda, direita):
     array[i + 1], array[direita] = array[direita], array[i + 1]
     return i + 1
 
-#array = [55, 44, 22 ,11, 66, 33]
-array = [77 ,55 ,33 ,99]
+array = [55, 44, 22 ,11, 66, 33]
+#array = [77 ,55 ,33 ,99]
 quickSort(array, 0, len(array) - 1)
 print("Resultado final:", array)
+
+#as saidas foram essas:
+# quicksort(array, 1, 6)
+# quicksort(array, 1, 2)
+# quicksort(array, 1, 0)
+# quicksort(array, 2, 2)
+# quicksort(array, 4, 6)
+# quicksort(array, 4, 4)
+# quicksort(array, 6, 6)
