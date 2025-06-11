@@ -1,14 +1,14 @@
 def merge_sort(array):
     if len(array)<= 1:
         return array
-
+    
     meio = len(array)//2
-    metade_esquerda = array[:meio]
-    metade_direita = array[meio:]
+    metadeEsquerda = array[:meio]
+    metadeDireita = array[meio:]
 
-    ordenaEsquerda = merge_sort(metade_esquerda)
-    ordenaDireita = merge_sort(metade_direita)
-    return merge(ordenaEsquerda, ordenaDireita)
+    esquerda = merge_sort(metadeEsquerda)
+    direita = merge_sort(metadeDireita)
+    return merge(esquerda, direita)
 
 def merge(esquerda, direita):
     i=0
@@ -24,14 +24,15 @@ def merge(esquerda, direita):
             j+=1
 
     while(i < len(esquerda)):
-            c.append(esquerda[i])
-            i+=1
+        c.append(esquerda[i])
+        i+=1
 
     while(j < len(direita)):
-            c.append(direita[j])
-            j+=1
-        
+        c.append(direita[j])
+        j+=1
+
     return c
+
 
 
 array = [1,8,6,4,2,22,36,74,65,42,63,95,86,7,41,122,321,547,11,23,45,68,17,19,12,87]
